@@ -1,0 +1,2 @@
+COLLECTION_NAME = "code-search"
+BATCH_SIZE = 32

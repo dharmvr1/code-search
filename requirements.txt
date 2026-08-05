@@ -1,0 +1,8 @@
+sentence-transformers
+qdrant-client
+python-dotenv
+gitpython
+tree-sitter-language-pack
+fastapi
+uvicorn
+pydantic
